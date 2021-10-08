@@ -1,0 +1,3 @@
+send-mail-server/.env
+send-mail-client/node_modules
+send-mail-server/node_modules
